@@ -1,3 +1,4 @@
+
 # Rock-Paper-Scissors-Hand-Gesture
 Hand detection project using Image recognition
 Library used: Opencv and mediapipe
@@ -9,3 +10,5 @@ Rock-Paper-Scissors feature:
 Hand Gesture fy feature:
 -able to recognize and identify up to 11 hand gestures
 -image censorship for middle finger gesture
+
+![Hand gesture](https://user-images.githubusercontent.com/60550463/120206350-b0452280-c25d-11eb-83bf-8ff998706747.png)
