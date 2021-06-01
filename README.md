@@ -1,7 +1,6 @@
 
 # Rock-Paper-Scissors-Hand-Gesture
-Hand detection project using Image recognition
-Library used: Opencv and mediapipe
+Hand detection project using Image recognition using MediaPipe and KNN
 
 Rock-Paper-Scissors feature:
 
