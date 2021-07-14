@@ -14,4 +14,4 @@ Hand Gesture fy feature:
 
 -image censorship for middle finger gesture
 
-![Hand gesture](https://user-images.githubusercontent.com/60550463/120206350-b0452280-c25d-11eb-83bf-8ff998706747.png)
+![Untitled](https://user-images.githubusercontent.com/60550463/125644971-41134b28-fa54-471c-b62b-8e4580b5102c.png)
